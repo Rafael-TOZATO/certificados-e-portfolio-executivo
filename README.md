@@ -54,15 +54,20 @@ Este repositório centraliza o ecossistema completo de capacitação técnica, p
 
 ## 🌐 CANAIS OFICIAIS E PORTFÓLIOS WEB
 
-* 💻 **GitHub Principal:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-* 💼 **LinkedIn:** [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-* 📝 **Medium (Artigos Técnicos):** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-* 🎓 **Microsoft Learn (Transcrito Oficial):** [Acessar Transcrito](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
-* 🌐 **Aplicações Web (PWA):**
-  * 🚀 [Tozato Dev Hub](https://tozato-dev-hub.vercel.app)
-  * ⚡ [Design Patterns App](https://padroes-eight.vercel.app/)
-  * 🎨 [H-Folio](https://h-folio-psi.vercel.app)
-  * 📊 [Aurora BI (Analytics)](https://aurora-bi-dio.lovable.app)
+* **Dev Hub:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+* **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
+---
+### 📊 Analytics e BI
+* **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+---
+### 🐙 Código e Repositórios
+* **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+---
+### 📝 Artigos e Publicações
+* **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+---
+### 🎓 Certificações e Educação
+* **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
 
 ---
 
