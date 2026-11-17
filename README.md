@@ -5,17 +5,6 @@
 
 **Engenharia de Software | Arquitetura Java & Spring | Inteligência Artificial | Engenharia de Dados & BI**
 
----
-
-### 🌐 REDES SOCIAIS E PERFIS OFICIAIS
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Rafael--TOZATO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafael-TOZATO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaeltozato81-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeltozato81)
-[![Medium](https://img.shields.io/badge/Medium-ornelas.tozato-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ornelas.tozato)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Transcript-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
-
-<br>
-
 ### 🛠️ STACK TÉCNICA E TECNOLOGIAS
 
 ![Java](https://img.shields.io/badge/Java_21+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,15 +31,11 @@
 
 </div>
 
----
-
 ## 📌 SOBRE ESTE REPOSITÓRIO
 
 Este repositório centraliza o ecossistema completo de capacitação técnica, projetos práticos, certificações e portfólio de **Rafael Ornelas Tozato**. O objetivo é fornecer uma visão consolidada, auditável e de alto desempenho para processos seletivos, auditorias de código e validação de competências avançadas em tecnologia.
 
 📄 **Dossiê Consolidado:** Você pode acessar ou baixar o arquivo completo com todo o histórico unificado diretamente na raiz do repositório: [`Dossiê Técnico Executivo.pdf`](./Dossiê%20Técnico%20Executivo.pdf).
-
----
 
 ## 🌐 CANAIS OFICIAIS E PORTFÓLIOS WEB
 
@@ -68,8 +53,6 @@ Este repositório centraliza o ecossistema completo de capacitação técnica, p
 ---
 ### 🎓 Certificações e Educação
 * **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
-
----
 
 ## 🛠️ ÁREAS DE ESPECIALIZAÇÃO E CERTIFICAÇÕES
 
@@ -97,8 +80,6 @@ Este repositório centraliza o ecossistema completo de capacitação técnica, p
 ### 5. Automação de Processos e Workflows (N8N e Python)
 * **Automação de Processos com N8N e Python** (25h) — *Santander / DIO* | 📜 [Certificado Oficial](https://web.dio.me/certificates) | 💻 [Repositório](https://github.com/Rafael-TOZATO/n8n-cobrancas-inteligentes.git)
 
----
-
 ## 📂 REPOSITÓRIOS DESTAQUE DO ECOSSISTEMA
 
 * [`tozato-dev-hub`](https://github.com/Rafael-TOZATO/tozato-dev-hub.git) — Hub central de códigos, automações e estruturas web.
@@ -107,14 +88,19 @@ Este repositório centraliza o ecossistema completo de capacitação técnica, p
 * [`aurora-bi-dio`](https://github.com/Rafael-TOZATO/aurora-bi-dio.git) — Projeto de Data Analytics e BI.
 * [`n8n-cobrancas-inteligentes`](https://github.com/Rafael-TOZATO/n8n-cobrancas-inteligentes.git) — Automação avançada com N8N e APIs.
 
----
+## 📬 CONTATOS E PERFIS
 
-## 📬 Contatos
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
-- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 🌐 **Portfólio PWA (Dev Hub):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
-- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-- 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
+
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
