@@ -1,25 +1,34 @@
 <div align="center">
   <img src="banner_modern_high_tech.jpg" width="100%" alt="Banner Executivo Rafael Ornelas Tozato">
 
-# DOSSIÊ TÉCNICO EXECUTIVO — CERTIFICAÇÕES E PORTFÓLIO
-
-**Engenharia de Software | Arquitetura Java & Spring | Inteligência Artificial | Engenharia de Dados & BI**
-
-### 🛠️ STACK TÉCNICA E TECNOLOGIAS
-
-![Java](https://img.shields.io/badge/Java_21+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB_Vector-000000?style=for-the-badge&logo=databricks&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+  <h1>DOSSIÊ TÉCNICO EXECUTIVO — CERTIFICAÇÕES E PORTFÓLIO</h1>
+  <p><b>Engenharia de Software | Arquitetura Java & Spring | Inteligência Artificial | Engenharia de Dados & BI</b></p>
+</div>
 
 <br>
+
+<!-- CATEGORIA 1: ARQUITETURA BACKEND E MENSAGERIA -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_21+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
+</p>
+
+<!-- CATEGORIA 2: DADOS, IA E AUTOMAÇÃO -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/ChromaDB_Vector-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB">
+</p>
+
+<!-- CATEGORIA 3: CLOUD, FERRAMENTAS E DEVOPS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/n8n_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+</p>
 
 ### 🛡️ AUDITORIA, SEGURANÇA E QUALIDADE DE CÓDIGO
 
