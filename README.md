@@ -65,7 +65,7 @@ Este repositório centraliza o ecossistema completo de capacitação técnica, p
 
 ## 📂 REPOSITÓRIOS DESTAQUE DO ECOSSISTEMA
 
-* [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app) — Hub central de códigos, automações e estruturas web.
+* [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app) 
 * [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
 ## 📬 CONTATOS E PERFIS
