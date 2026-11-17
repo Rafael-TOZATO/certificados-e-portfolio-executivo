@@ -37,23 +37,6 @@ Este repositório centraliza o ecossistema completo de capacitação técnica, p
 
 📄 **Dossiê Consolidado:** Você pode acessar ou baixar o arquivo completo com todo o histórico unificado diretamente na raiz do repositório: [`Dossiê Técnico Executivo.pdf`](./Dossiê%20Técnico%20Executivo.pdf).
 
-## 🌐 CANAIS OFICIAIS E PORTFÓLIOS WEB
-
-* **Dev Hub:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-* **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
----
-### 📊 Analytics e BI
-* **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
----
-### 🐙 Código e Repositórios
-* **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
----
-### 📝 Artigos e Publicações
-* **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
----
-### 🎓 Certificações e Educação
-* **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
-
 ## 🛠️ ÁREAS DE ESPECIALIZAÇÃO E CERTIFICAÇÕES
 
 ### 1. Arquitetura Backend, Java e Spring Framework
@@ -82,17 +65,10 @@ Este repositório centraliza o ecossistema completo de capacitação técnica, p
 
 ## 📂 REPOSITÓRIOS DESTAQUE DO ECOSSISTEMA
 
-* [`tozato-dev-hub`](https://github.com/Rafael-TOZATO/tozato-dev-hub.git) — Hub central de códigos, automações e estruturas web.
-* [`lab-padroes-projeto-java-spring`](https://github.com/Rafael-TOZATO/lab-padroes-projeto-java-spring.git) — Implementação de Design Patterns com Java e Spring.
-* [`pipeline-pagamentos`](https://github.com/Rafael-TOZATO/pipeline-pagamentos.git) — Arquitetura de eventos em tempo real com Kafka.
-* [`aurora-bi-dio`](https://github.com/Rafael-TOZATO/aurora-bi-dio.git) — Projeto de Data Analytics e BI.
-* [`n8n-cobrancas-inteligentes`](https://github.com/Rafael-TOZATO/n8n-cobrancas-inteligentes.git) — Automação avançada com N8N e APIs.
+* [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app) — Hub central de códigos, automações e estruturas web.
+* [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
 ## 📬 CONTATOS E PERFIS
-
-💻 **PROJETOS E PORTFÓLIOS**
-* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
 🐙 **CÓDIGOS E REPOSITÓRIOS**
 * GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
