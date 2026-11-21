@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="banner_modern_high_tech.jpg" width="100%" alt="Banner Executivo Rafael Ornelas Tozato">
-
-  <h1>DOSSIÊ TÉCNICO EXECUTIVO — CERTIFICAÇÕES E PORTFÓLIO</h1>
-  <p><b>Engenharia de Software | Arquitetura Java & Spring | Inteligência Artificial | Engenharia de Dados & BI</b></p>
+  <img src="banner-executivo.svg" width="100%" alt="Banner Executivo Rafael Ornelas Tozato">
 </div>
 
 <br>
